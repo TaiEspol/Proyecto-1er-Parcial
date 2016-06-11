@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author Marbelisa
+ * @author Tai Yu Chen
  */
 public class Tabla2 extends Tabla{
     private Random random= new Random();
