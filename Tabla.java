@@ -7,7 +7,7 @@ package proyecto;
 
 /**
  *
- * @author Marbelisa
+ * @author Tai Yu Chen
  */
 public abstract class Tabla {
     private Pieza[][] tabla;
