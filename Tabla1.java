@@ -7,7 +7,7 @@ package proyecto;
 
 /**
  *
- * @author Marbelisa
+ * @author Tai Yu Chen
  */
 public class Tabla1 extends Tabla {
     private Pieza[][] tabla1;
