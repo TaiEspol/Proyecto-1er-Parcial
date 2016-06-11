@@ -8,8 +8,8 @@ package proyecto;
 import java.util.Scanner;
 
 /**
- *
- * @author Marbelisa
+ *Borrador 1
+ * @author Tai Yu Chen
  */
 public final class Jugador {
     private Scanner entrada = new Scanner(System.in);
